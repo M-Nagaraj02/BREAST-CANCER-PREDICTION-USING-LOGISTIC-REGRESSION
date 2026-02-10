@@ -33,13 +33,14 @@ data = load_breast_cancer()
 * Achieved **92% accuracy** on test data
 * Confusion matrix and classification report used for evaluation
 
----
+**Model Confusion Matrix Heatmap :**
+
+<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/822933aa-c667-4e4d-89bb-94a318f5702a" />
 
 ## Author
 
 **Nagaraj M**
 GitHub: [https://github.com/M-Nagaraj02](https://github.com/M-Nagaraj02)
 
-**Model Confusion Matrix Heatmap :**
 
-<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/822933aa-c667-4e4d-89bb-94a318f5702a" />
+
