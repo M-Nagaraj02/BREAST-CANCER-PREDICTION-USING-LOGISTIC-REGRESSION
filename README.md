@@ -39,6 +39,8 @@ data = load_breast_cancer()
 
 ## Author
 
+---
+
 **Nagaraj M**
 GitHub: [https://github.com/M-Nagaraj02](https://github.com/M-Nagaraj02)
 
